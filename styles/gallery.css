@@ -1,0 +1,62 @@
+.gboxx {
+    padding: 70px 5vw;
+    background-color: #000;
+}
+.gboxx h1 {
+    color: #fff;
+    text-align: center;
+}
+.pht {
+    width: 100%;
+    padding: 1vw 5vw;
+    background-color: #000;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #000;
+}
+.photo {
+    width: 24%;
+    height: 200px;
+    background-color: #0ff8;
+    background-position: center;
+    background-size: cover;
+}
+.lasttt {
+    padding-bottom: 70px;
+}
+#i1 {
+    background-image: url('https://wxheedm.github.io/ICT-211-Group-25/gallery/imgs/i1.jfif');
+}
+#i2 {
+    background-image: url('https://wxheedm.github.io/ICT-211-Group-25/gallery/imgs/i2.jfif');
+}
+#i3 {
+    background-image: url('https://wxheedm.github.io/ICT-211-Group-25/gallery/imgs/i3.jfif');
+}
+#i4 {
+    background-image: url('https://wxheedm.github.io/ICT-211-Group-25/gallery/imgs/i4.jfif');
+}
+#i5 {
+    background-image: url('https://wxheedm.github.io/ICT-211-Group-25/gallery/imgs/i5.jfif');
+}
+#i6 {
+    background-image: url('https://wxheedm.github.io/ICT-211-Group-25/gallery/imgs/i6.jfif');
+}
+#i7 {
+    background-image: url('https://wxheedm.github.io/ICT-211-Group-25/gallery/imgs/i7.jfif');
+}
+#i8 {
+    background-image: url('https://wxheedm.github.io/ICT-211-Group-25/gallery/imgs/i8.jfif');
+}
+#i9 {
+    background-image: url('https://wxheedm.github.io/ICT-211-Group-25/gallery/imgs/i9.jfif');
+}
+#i10 {
+    background-image: url('https://wxheedm.github.io/ICT-211-Group-25/gallery/imgs/i10.jfif');
+}
+#i11 {
+    background-image: url('https://wxheedm.github.io/ICT-211-Group-25/gallery/imgs/i11.jfif');
+}
+#i12 {
+    background-image: url('https://wxheedm.github.io/ICT-211-Group-25/gallery/imgs/i12.jfif');
+}
