@@ -82,6 +82,8 @@ a.active {
 }
 .hhdd {
     background-image: url('https://wxheedm.github.io/ICT-211-Group-25/bg3.png');
+    background-size: cover;
+    background-position: center;
     height: 100vh;
 }
 .hhdd2 {
