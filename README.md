@@ -10,7 +10,7 @@ Agoutchi Israel Osaze - LCU/UG/23/25293
 Emma-Aghaunor Daniel - LCU/UG/23/25492
 Ogunyemi Ayodele Samuel - LCU/UG/23/25226
 John Tosin Jonathan - LCU/UG/23/25807
-Nasirudeen Hawal Olayinka - LCU/UG/23/26324
+Nasirudeen Hawal Olayinka - LCU/UG/23/26324<br>
 Japhet Usen Inyang - LCU/UG/23/25530
 
 ... using HTML, CSS and JavaScript.
