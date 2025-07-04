@@ -1,0 +1,52 @@
+
+@media (max-width: 800px) {
+    header {
+        height: fit-content;
+        padding: 50px 5vw;
+    }
+    .hhdd2 h1 {
+        font-size: 35px;
+        margin-top: 40vh;
+        line-height: 35px;
+    }
+    .hhdd2 h1 span {
+        font-size: 24px;
+    }
+    .links {
+        display: none;
+    }
+    .hdrst {
+        height: 100%;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        align-items: center;
+    }
+    .hdrst .exp {
+        width: 100%;
+    }
+    .hdrst .exp h1 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+    #dsk {
+        display: none;
+    }
+    #phn {
+        display: flex;
+        align-items: center;
+    }
+    .pht {
+        width: 100%;
+        flex-direction: column;
+        padding: 0;
+        margin: 0;
+    }
+    .pht .photo {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .lasttt {
+        padding-bottom: 70px;
+    }
+}
